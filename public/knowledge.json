@@ -1,0 +1,53 @@
+[
+    { 
+      "id": 1,
+      "cover_pic": "https://i.ibb.co.com/5nyv9Vd/2.png",
+      "title": "The Role of AI in Modern Education: Transforming Learning Experiences",
+      "author": "Dr. Emily Roberts",
+      "author_image": "https://i.ibb.co.com/WkbN1hv/boy1.png",
+      "reading_time": 12,
+      "published_date": "October 1, 2024",
+      "hash_tags": ["#DigitalEducation", "#FutureOfLearning"]
+    },
+    {
+      "id": 2,
+      "cover_pic": "https://i.ibb.co.com/CK6Jdx7/overhead-view-businesswoman-working-computer-office-place-your-text-ideal-blog-flat-lay-white-backgr.jpg",
+      "title": "Quantum Computing: The Next Frontier in Technology",
+      "author": "Dr. Alan Foster",
+      "author_image": "https://i.ibb.co.com/58F8vvn/boy2.jpg",
+      "reading_time": 12,
+      "published_date": "September 25, 2024",
+      "hash_tags": ["#FutureTech","#ComputerScience"]
+    },
+    {
+      "id": 3,
+      "cover_pic": "https://i.ibb.co.com/MV6g7sm/hacker-hood-stealing-data-from-server-room-cybercrime-concept.jpg",
+      "title": "Libraries of Tomorrow: Merging Tradition with Technology",
+      "author": "Sarah Thompson",
+      "author_image": "https://i.ibb.co.com/KXF9KJB/girl1.jpg",
+      "reading_time": 10,
+      "published_date": "October 18, 2024",
+      "hash_tags": ["#FutureLibraries", "#InformationAge"]
+    },
+    {
+      "id": 4,
+      "cover_pic": "https://i.ibb.co.com/8rhfzMc/1.jpg",
+      "title": "Neuroscience and AI: How Brain Research is Advancing Artificial Intelligence",
+      "author": "Dr. Rebecca Lee",
+      "author_image": "https://i.ibb.co.com/Jt01xvq/girl2.jpg",
+      "reading_time": 14,
+      "published_date": "October 12, 2024",
+      "hash_tags": ["#AIResearch", "#BrainAndTech"]
+    },
+    {
+      "id":5,
+      "cover_pic": "https://i.ibb.co.com/t80mFxX/3.png",
+      "title": "Big Data and Society: The Ethical Challenges of Data Collection",
+      "author": "James Wilson",
+      "author_image": "https://i.ibb.co.com/4RCyHrV/profile.png",
+      "reading_time": 11,
+      "published_date": "October 21, 2024",
+      "hash_tags": ["#Privacy", "#DataScience", "#InformationAge"]
+    }
+  ]
+  
